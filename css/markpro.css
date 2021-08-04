@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'MarkPro';
-    src: url('../fonts/MarkPro/MarkPro.woff') format('woff');
+    src: url('../fonts/MarkPro/MarkPro.woff2') format('woff2'),
+        url('../fonts/MarkPro/MarkPro.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -8,41 +9,46 @@
 
 @font-face {
     font-family: 'MarkPro';
-    src: url('../fonts/MarkPro/MarkPro-Bold.woff') format('woff');
+    src: url('../fonts/MarkPro/MarkPro-Bold.woff2') format('woff2'),
+        url('../fonts/MarkPro/MarkPro-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
-/* @font-face {
-    font-family: 'MarkPro';
-    src: url('../fonts/MarkPro/MarkPro-MediumItalic.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
 @font-face {
     font-family: 'MarkPro';
-    src: url('../fonts/MarkPro/MarkPro-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'MarkPro';
-    src: url('../fonts/MarkPro/MarkPro-BoldItalic.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'MarkPro';
-    src: url('../fonts/MarkPro/MarkPro-LightItalic.woff') format('woff');
+    src: url('../fonts/MarkPro/MarkPro-LightItalic.woff2') format('woff2'),
+        url('../fonts/MarkPro/MarkPro-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
-} */
+}
+
+@font-face {
+    font-family: 'MarkPro';
+    src: url('../fonts/MarkPro/MarkPro-BoldItalic.woff2') format('woff2'),
+        url('../fonts/MarkPro/MarkPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MarkPro';
+    src: url('../fonts/MarkPro/MarkPro-MediumItalic.woff2') format('woff2'),
+        url('../fonts/MarkPro/MarkPro-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MarkPro';
+    src: url('../fonts/MarkPro/MarkPro-Medium.woff2') format('woff2'),
+        url('../fonts/MarkPro/MarkPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
 

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Felt That';
+    src: url('../fonts/FeltThat/FeltThat.woff2') format('woff2'),
+        url('../fonts/FeltThat/FeltThat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
